@@ -1,2 +1,2 @@
 # Android-Studio-Apps
-Each application has its own folder in this repository. Each app is intended to be run using an Android Studio emulator within its project directory.
+Each application has its own folder in this repository. Each app is intended to be run using an Android Studio emulator within its project directory. These projects were developed following the Google Developers Android Development pathway. For some of these projects, Google provided basic starter code which I added on to. Here is a link to my Google Developer profile with all of my badges from completing this pathway: https://developers.google.com/profile/u/gavinhewitt03
