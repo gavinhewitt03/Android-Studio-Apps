@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="the_frame">The Frame</string>
+    <string name="the_frame_year">(1938)</string>
+    <string name="the_frame_artist">Frida Kahlo</string>
+    <string name="the_frame_desc">A painting by Frida Kahlo titled "The Frame," painted in 1938</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="sleeping">The Sleeping Gypsy</string>
+    <string name="sleeping_year">(1897)</string>
+    <string name="sleeping_artist">Henry Rousseau</string>
+    <string name="sleeping_desc">A painting by Henry Rousseau titled "The Sleeping Gypsy," painted in 1897</string>
+    <string name="pearl_earring">Girl with a Pearl Earring</string>
+    <string name="pearl_earring_artist">Johannes Vermeer</string>
+    <string name="pearl_earring_year">(1665)</string>
+    <string name="pearl_earring_desc">A painting by Johannes Vermeer titled "Girl with a Pearl Earring," painted in 1665</string>
+    <string name="sunday_afternoon">A Sunday Afternoon on the Island of La Grande Jatte</string>
+    <string name="sunday_afternoon_artist">Georges Seurat</string>
+    <string name="sunday_afternoon_year">(1886)</string>
+    <string name="sunday_afternoon_desc">A painting by Georges Seurat titled "A Sunday Afternon on the Island of La Grande Jatte," painted in 1886</string>
+    <string name="ireses">Ireses</string>
+    <string name="ireses_artist">Vincent Van Gogh</string>
+    <string name="ireses_year">(1889)</string>
+    <string name="ireses_desc">A painting by Vincent Van Gogh titled "Ireses," painted in 1889</string>
+</resources>
